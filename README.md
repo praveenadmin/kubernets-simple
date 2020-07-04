@@ -1,2 +1,2 @@
-# kubernets-simple
+# KubernetesZone
 This repository contains kubernetes manifest
